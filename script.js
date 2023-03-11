@@ -1,5 +1,5 @@
     // Set the date and time for the countdown
-var countDownDate = new Date("2023-03-12T20:00:00+06:00").getTime();
+const countDownDate = new Date("2023-03-12T20:00:00+06:00").getTime();
 
 // Update the countdown every second
 const countdownTimer = setInterval(() => {
